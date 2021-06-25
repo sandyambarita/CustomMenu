@@ -1,0 +1,27 @@
+[
+{
+"name": "Coin",
+"image": "ic_coin",
+"isHiddenMenu": false
+},
+{
+"name": "Graph",
+"image": "ic_graph",
+"isHiddenMenu": true
+},
+{
+"name": "Porto",
+"image": "ic_porto",
+"isHiddenMenu": false
+},
+{
+"name": "Reksa Dana",
+"image": "ic_rd",
+"isHiddenMenu": false
+},
+{
+"name": "Wealth",
+"image": "ic_wealth",
+"isHiddenMenu": false
+}
+]
